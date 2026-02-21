@@ -2,13 +2,13 @@
 이미지를 넣어서 pose에 따라 이미지를 변환시키는 건데 만들긴 한거 같은데 학습 자료가 별로 안 좋아서... 잘 안되는 거 같습니다. 일단 모델은 올려봅니다.
 수정할 부분이나 그런거 있으면 좀 알려주세요.
 
-<script 
-  src="https://www.paypal.com/sdk/js?client-id=BAAqZYbES0uD8iC1TwOSCQ3Go9RQ3MQiwRYRICo0I4h5kz2LkkLOCQCmZmq_SWYV6Ehpqx1Yl7j-doQWec&components=hosted-buttons&disable-funding=venmo&currency=USD">
-</script>
 
 제가 직접 만든 모델을 한번 구경해보고 싶어서요. 지금은 좀 엉망으로 나오는지라....
 
 제 이메일등(ryujanghyun00@icloud.com)으로 자료 보내 주시면 학습 한번 해볼게요. 이미지 사이즈는 WxH가 144x256로 만들었습니댜.
+
+기부 받습니다.
+https://www.paypal.com/ncp/payment/4YQLNPMPYN5CA
 
 사용 방법은 
 
