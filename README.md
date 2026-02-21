@@ -23,7 +23,7 @@
 5. $ python mymain.py 실행
    (테스트시에 컴퓨터에 웹카메라등을 설치가 필요합니다. 웹 카메라는 90도 반시계 방향으로 돌린 이후 사용합니다.)
    (pth폴더의 파일의 이름을 확인한 이후 mymain.py에 파일 이름을 교체합니다.)
-<img width="1920" height="1080" alt="스크린샷 2026-02-21 16-39-32" src="https://github.com/user-attachments/assets/1d7e2449-6312-4f4e-924a-5c75983dbfbe" />
+
 
 참조 논문은
 https://github.com/prasunroy/pose-transfer?tab=readme-ov-file 이걸 참조해서 사이에 transformer를 넣어 작성해 봤습니다. 더 잘되는 것 같긴 합니다.
@@ -34,6 +34,8 @@ https://github.com/prasunroy/pose-transfer?tab=readme-ov-file 이걸 참조해�
 gan 모델을 추가하였습니다. 학습속도가 비약적으로 빨라 졌습니다.
 그리고 loss 모델을 수정했습니다.
 
+시간때별 학습 상황입니다.
+<img width="1920" height="1080" alt="스크린샷 2026-02-21 16-39-32" src="https://github.com/user-attachments/assets/1d7e2449-6312-4f4e-924a-5c75983dbfbe" />
 <img width="1920" height="1080" alt="스크린샷 2026-02-21 16-40-26" src="https://github.com/user-attachments/assets/3bfe0128-767a-41d9-a496-b2441dd98563" />
 <img width="1920" height="1080" alt="스크린샷 2026-02-21 16-40-50" src="https://github.com/user-attachments/assets/5f39c71a-dbab-4f3c-8b35-d7391799dc88" />
 <img width="1920" height="1080" alt="스크린샷 2026-02-21 16-49-34" src="https://github.com/user-attachments/assets/4f8f59c1-27ff-4c63-9bcb-40f5617826f6" />
@@ -43,7 +45,6 @@ gan 모델을 추가하였습니다. 학습속도가 비약적으로 빨라 졌�
 <img width="1920" height="1080" alt="스크린샷 2026-02-21 21-20-45" src="https://github.com/user-attachments/assets/98b1dc12-952d-4959-9753-0d8a2788def8" />
 <img width="1920" height="1080" alt="스크린샷 2026-02-21 21-37-59" src="https://github.com/user-attachments/assets/b5816d08-d38b-4071-a299-29433d427cd7" />
 <img width="1920" height="1080" alt="스크린샷 2026-02-21 22-26-36" src="https://github.com/user-attachments/assets/c108cc08-88ce-44e3-b6a3-f1d7e4510577" />
-
 
 이건 30000step에서 확인 한 걸 돌려본겁니다. 2틀뒤 200000step에서 작동되는걸 올려보겠습니다.
 ![2026-02-21 22-32-51](https://github.com/user-attachments/assets/afa75695-19f1-484b-90e3-c8a5dd6ef3a8)
