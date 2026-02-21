@@ -10,6 +10,11 @@
 기부 받습니다.
 https://www.paypal.com/ncp/payment/4YQLNPMPYN5CA
 
+
+모델 형태는 다음과 같습니다.
+<img width="512" height="144" alt="test" src="https://github.com/user-attachments/assets/e16bd1d6-fb85-4d94-85c5-dfafdf17b6f6" />
+
+
 사용 방법은 
 
 1. python -m venv ./ 이후에 source bin/activate 작동.
