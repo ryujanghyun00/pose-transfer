@@ -7,7 +7,7 @@
 
 제 이메일등(ryujanghyun00@icloud.com)으로 자료 보내 주시면 학습 한번 해볼게요. 이미지 사이즈는 WxH가 144x256로 만들었습니댜.
 
-기부 받습니다.
+기부 받습니다. 저는 진짜로 가난하기 때문에 깃허브에 기부버튼 논쟁이 있지만 올립니다.
 https://www.paypal.com/ncp/payment/4YQLNPMPYN5CA
 
 
