@@ -58,10 +58,20 @@ gan 모델을 추가하였습니다. 학습속도가 비약적으로 빨라 졌�
 <img width="1920" height="1080" alt="스크린샷 2026-02-21 21-20-45" src="https://github.com/user-attachments/assets/98b1dc12-952d-4959-9753-0d8a2788def8" />
 <img width="1920" height="1080" alt="스크린샷 2026-02-21 21-37-59" src="https://github.com/user-attachments/assets/b5816d08-d38b-4071-a299-29433d427cd7" />
 <img width="1920" height="1080" alt="스크린샷 2026-02-21 22-26-36" src="https://github.com/user-attachments/assets/c108cc08-88ce-44e3-b6a3-f1d7e4510577" />
+<img width="1920" height="1080" alt="스크린샷 2026-02-22 05-54-09" src="https://github.com/user-attachments/assets/75353f8b-d2ac-4598-8256-573489f94000" />
+<img width="1920" height="1080" alt="스크린샷 2026-02-22 12-34-12" src="https://github.com/user-attachments/assets/531ee5e7-fbc5-4037-9e15-8282c1efa38e" />
+<img width="1920" height="1080" alt="스크린샷 2026-02-22 12-34-19" src="https://github.com/user-attachments/assets/afdb32a7-f29f-4a9e-a1c6-4f7a0d77f467" />
+<img width="1920" height="1080" alt="스크린샷 2026-02-22 14-19-46" src="https://github.com/user-attachments/assets/265c5f43-d21f-49b8-8fe7-568f637eb1c8" />
 
-이건 30000step에서 확인 한 걸 돌려본겁니다. 2틀뒤 200000step에서 작동되는걸 올려보겠습니다.
+이건 30000step에서 확인 한 걸 돌려본겁니다. 
 ![2026-02-21 22-32-51](https://github.com/user-attachments/assets/afa75695-19f1-484b-90e3-c8a5dd6ef3a8)
 
+학습은 120000step에서 멈췄습니다. 그걸 보여드립니다.
+
+
+![2026-02-22 15-31-18](https://github.com/user-attachments/assets/85ac4b86-3f43-4dfa-bee7-dc637b2a28ff)
+
+![2026-02-22 15-32-12](https://github.com/user-attachments/assets/f0c391b1-f411-495f-91a1-ec15d8a9fb7b)
 
 
 
