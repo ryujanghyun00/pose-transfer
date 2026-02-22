@@ -206,7 +206,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 print(device)
 
-gen = torch.load('./pth/train8gen1100001.pt', weights_only=False)  
+gen = torch.load('./pth/train8gen120001.pt', weights_only=False)  
 
 model = DwposeDetector.from_pretrained_default()
 resize = torchvision.transforms.Resize((256, 176))
@@ -288,3 +288,4 @@ while True:
     img_label6.image = tk_image6
                         
     root.update()
+
